@@ -10,6 +10,9 @@ else:  # beagebone
     RESET_PIN = "P9_15"
     DC_PIN    = "P9_13"
 
+#
+# These two variables are just set to the cooresponding pins on the CHIP
+# that are wired to RES and DC on the OLED breakout
 
 RESET_PIN = "CSID0" 
 DC_PIN    = "CSID1" 
